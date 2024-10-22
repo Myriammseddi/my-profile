@@ -119,3 +119,22 @@ a:hover {
   margin-bottom: 40px;
   line-height: 1.7; 
 }
+
+.btn-custom {
+  background-color: #FADDAD; 
+  color: black; 
+  padding: 15px 20px;
+  border-radius: 6px;
+  text-align: center;
+  display: inline-block;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  text-decoration: none; 
+}
+
+.btn-custom:hover {
+  background-color: #C71585; 
+  color: white;
+}
