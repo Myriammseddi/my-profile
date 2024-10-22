@@ -7,12 +7,12 @@ body {
   font-weight: 300; 
 }
 
-h1, h2, h3 {
+h1, h2, h3 , h4 {
   font-family: 'Roboto', sans-serif;
 }
 
 h1 {
-  color: #2D2F48; 
+  color: #FADADD; 
   font-size: 36px; 
   font-weight: 700; 
 }
@@ -121,8 +121,8 @@ a:hover {
 }
 
 .btn-custom {
-  background-color: #FADDAD; 
-  color: black; 
+  background-color: #6B72E1; 
+  color: white; 
   padding: 15px 20px;
   border-radius: 6px;
   text-align: center;
@@ -135,10 +135,16 @@ a:hover {
 }
 
 .btn-custom:hover {
-  background-color: #C71585; 
+  background-color: #FADADD; 
   color: white;
 }
 
 h4 + p {
   font-family: 'Roboto', sans-serif;
 }
+
+h1 + p {
+  font-family: 'Roboto', sans-serif;
+}
+
+
