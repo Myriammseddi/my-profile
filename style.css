@@ -12,13 +12,13 @@ h1, h2, h3 , h4 {
 }
 
 h1 {
-  color: #FADADD; 
+  color: #2D2F48; 
   font-size: 36px; 
   font-weight: 700; 
 }
 
 h2 {
-  color: #FF69B4; 
+  color: #FADADD; 
   font-size: 24px; 
   font-weight: 500;
 }
@@ -147,4 +147,7 @@ h1 + p {
   font-family: 'Roboto', sans-serif;
 }
 
+#introduction p {
+  font-family: 'Roboto', sans-serif;
+}
 
